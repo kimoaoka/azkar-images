@@ -1,1 +1,40 @@
-
+{
+  "images": [
+    {
+      "title": "Morning Azkar",
+      "url": "https://raw.githubusercontent.com/kimoaoka/azkar-images/main/azkar_morning1.png.jpg"
+    },
+    {
+      "title": "Evening Azkar",
+      "url": "https://raw.githubusercontent.com/kimoaoka/azkar-images/main/azkar_evening1.png.jpg"
+    },
+    {
+      "title": "General Azkar",
+      "url": "https://raw.githubusercontent.com/kimoaoka/azkar-images/main/azkar_general1.jpg"
+    },
+    {
+      "title": "Azkar Image 1",
+      "url": "https://raw.githubusercontent.com/kimoaoka/azkar-images/main/34b1124507780ea2000e605977e0e636.jpg"
+    },
+    {
+      "title": "Azkar Image 2",
+      "url": "https://raw.githubusercontent.com/kimoaoka/azkar-images/main/94008c8b26158ee4344545724fb4cc3e.jpg"
+    },
+    {
+      "title": "Azkar Image 3",
+      "url": "https://raw.githubusercontent.com/kimoaoka/azkar-images/main/b65246e1ca9217cf406d00d32ab14a11.jpg"
+    },
+    {
+      "title": "Azkar Image 4",
+      "url": "https://raw.githubusercontent.com/kimoaoka/azkar-images/main/cb1a1376bba41794b27037eca6cf8838.jpg"
+    },
+    {
+      "title": "Azkar Image 5",
+      "url": "https://raw.githubusercontent.com/kimoaoka/azkar-images/main/f3914f26adea0d8cdbe7789f38de09b1.jpg"
+    },
+    {
+      "title": "Azkar Image 6",
+      "url": "https://raw.githubusercontent.com/kimoaoka/azkar-images/main/f8e4bbaa660ffb38eae50e384216785d.jpg"
+    }
+  ]
+}
